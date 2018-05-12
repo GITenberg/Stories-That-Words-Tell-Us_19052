@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8434'
     url: http://www.gutenberg.org/2009/agents/8434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19052#Stories-That-Words-Tell-Us
 gutenberg_issued: '2006-08-15'
 gutenberg_type: Text
 identifiers:
